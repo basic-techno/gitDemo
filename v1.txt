@@ -1,1 +1,2 @@
 This is first line in master branch
+This is second command in master branch
